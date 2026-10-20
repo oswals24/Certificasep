@@ -1,0 +1,6 @@
+{
+  "name": "Sistema de Certificación DGB & Gestión de Tareas",
+  "description": "Sistema oficial de emisión y diseño exacto de certificados DGB PREFECO con módulo de gestión de tareas y trámites pendientes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
